@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8296652e20a2832340f0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FIR_generator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FIR_generator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FIR_generator-Debug-016c4c80acea5e1e1dbd.json",
+					"name" : "FIR_generator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FIR_generator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FIR_generator_autogen-Debug-2ee71553156a6cd3a36e.json",
+					"name" : "FIR_generator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FIR_generator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FIR_generator_autogen_timestamp_deps-Debug-3d41d071a3e87a9e80d8.json",
+					"name" : "FIR_generator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ruigomes/Documents/Code/c_cpp_code/QT_cpp/FIR_generator/build/Desktop_Qt_6_7_1-Debug",
+		"source" : "/home/ruigomes/Documents/Code/c_cpp_code/QT_cpp/FIR_generator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

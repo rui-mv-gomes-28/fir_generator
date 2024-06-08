@@ -1,0 +1,9 @@
+-rootPath
+/home/ruigomes/Documents/Code/c_cpp_code/QT_cpp/FIR_generator
+-cmake-output
+-output-file
+/home/ruigomes/Documents/Code/c_cpp_code/QT_cpp/FIR_generator/build/Desktop_Qt_6_7_1-Debug/.qt/qml_imports/FIR_generator_build.cmake
+-importPath
+/home/ruigomes/Documents/Code/c_cpp_code/QT_cpp/FIR_generator/build/Desktop_Qt_6_7_1-Debug
+-importPath
+/home/ruigomes/Qt/6.7.1/gcc_64/./qml
